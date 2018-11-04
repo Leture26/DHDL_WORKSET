@@ -1,0 +1,12 @@
+lib_managed
+*.iml
+*.swp
+*.tags
+.DS_Store
+local.properties
+project/boot
+project/build/target
+target
+virtualization-lms-core.iml
+.gitingore
+#test-out
